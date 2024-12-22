@@ -1,0 +1,1 @@
+This project involves the derivation of the Geodesic equations using the Einstein's field equation and also simulating the trajectory of a geodesic near a Schwarzschild black hole using Python. This repository also includes a Jupyter Notebook which helps in effectively visualising the trajectory.
